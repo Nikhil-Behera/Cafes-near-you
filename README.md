@@ -49,4 +49,4 @@ To get a local copy up and running, follow these simple steps.
 
 ## 📜 License
 
-This project is open source. Feel free to fork, modify, and use it as you see fit. Consider adding a [LICENSE file](https://choosealicense.com/) to make the terms clear.
+This project is open source. Feel free to fork, modify, and use it as you see fit. Consider adding a [LICENSE file](https://github.com/Nikhil-Behera/Cafes-near-you/blob/master/LICENSE) to make the terms clear.
